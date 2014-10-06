@@ -12,7 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #--------------------------------------------------------------------------
+
+#gem "minitest"
 require "minitest/autorun"
+require 'minitest/bang'
 require "mocha/setup"
 
 # Attempt to load turn to show formatted test results

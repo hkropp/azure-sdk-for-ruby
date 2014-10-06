@@ -13,4 +13,6 @@
 # limitations under the License.
 #--------------------------------------------------------------------------
 source 'https://rubygems.org'
+gem 'minitest-bang', '0.0.4', require: false
+gem 'minitest-colorize'
 gemspec
